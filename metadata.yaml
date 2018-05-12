@@ -1,0 +1,30 @@
+_repo: Memoir-of-John-Howe-PeytonM.-Peyton_38007
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Peyton, J. Lewis (John Lewis)
+    alias: Peyton, John Lewis
+    birthdate: 1824
+    deathdate: 1896
+    gutenberg_agent_id: '38330'
+    url: http://www.gutenberg.org/2009/agents/38330
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38007'
+  lccn: '17002854'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Peyton, Anne Montgomery, 1802-1850'
+- !lcsh 'Peyton, John Howe, 1778-1847'
+title: "Memoir of John Howe Peyton\r\nin sketches by his contemporaries, together\
+  \ with some of his public and private letters, etc., also a sketch of Ann M. Peyton"
+url: http://www.gutenberg.org/ebooks/38007
